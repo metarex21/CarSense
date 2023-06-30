@@ -40,3 +40,7 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## To Do
+- Implement a ML model to predict car prices for customer
+- Implement a flask app
