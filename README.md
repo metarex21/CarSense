@@ -42,5 +42,5 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 This project is licensed under the [MIT License](LICENSE).
 
 ## To Do
-- Implement a ML model to predict car prices for customer
+- Implement a ML model to predict car prices for customer/ recommend best car in price range
 - Implement a flask app
